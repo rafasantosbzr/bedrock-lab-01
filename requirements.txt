@@ -1,0 +1,5 @@
+streamlit
+streamlit-authenticator
+requests
+boto3
+pandas

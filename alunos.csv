@@ -1,0 +1,11 @@
+student_id,name,course_completed,region,current_job
+1,Ana Souza,DevOps com AWS,Contagem - MG,DevOps Junior na CloudZap
+2,Mariana Ribeiro,Banco de Dados e SQL,Fortaleza - CE,Analista de Dados na DataInsight
+3,Diego Santos,Back-End com Python,Salvador - BA,Desenvolvedor Python na CodeBahia
+4,Letícia Carvalho,DevOps com AWS,Belém - PA,DevOps Engineer na CloudNorte
+5,Gustavo Lima,Front-End com React,Blumenau - SC,Web Designer na SantaWeb
+6,Paula Martins,Metodologias Ágeis e Soft Skills,São Paulo - SP,Product Owner na AgilizaTech
+7,Renan Oliveira,Back-End com Python,Campinas - SP,Desenvolvedor Backend na RocketCode
+8,Aline Freitas,Fundamentos de AWS,Joinville - SC,Suporte Técnico AWS na NorteTI
+9,Bruno Ferreira,Front-End com React,Curitiba - PR,Desenvolvedor Front-End na PRWeb
+10,Talita Alves,Fundamentos de AWS,Palmas - TO,Analista Cloud na TocantinsTech

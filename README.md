@@ -176,23 +176,12 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ````
-## Objetivo do Projeto
-
-O objetivo deste repositório é compartilhar o conhecimento adquirido durante as aulas, com foco no desenvolvimento de habilidades em:
-
-- **Fundamentos de Inteligência Artificial**  
-- **Computação em Nuvem (AWS)**  
-- **Boas Práticas de Desenvolvimento de Software**  
-- **Trabalhos práticos com projetos colaborativos**
-
- Os projetos serão realizados com base em **metodologias ágeis**, organizando os alunos em **equipes (squads)**. Cada grupo terá um **tema específico de projeto** e realizará entregas por meio de **sprints**, promovendo o trabalho em equipe, comunicação efetiva e desenvolvimento iterativo e incremental. 
-, o curso oferece uma introdução ao uso da **AWS** para a construção de soluções baseadas em **Cloud Computing** e **IA**.
 
 ---
 
 ## Contato
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via  [Rafael Santos](https://www.linkedin.com/in/rafasantosbzr/)
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/rafasantosbzr/)
 
 
-Este repositório faz parte de um projeto **educacional em tecnologia**, promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.
+Este repositório foi originalmente desenvolvido por [Heberton Geovane](https://www.linkedin.com/in/heberton-geovane/) e faz parte de um projeto **educacional em tecnologia** promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.

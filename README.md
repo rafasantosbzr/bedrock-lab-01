@@ -1,21 +1,3 @@
-# 🤖 Projeto Chatbot com AWS Bedrock
-
-Este projeto é um **chatbot inteligente** desenvolvido com **Python**, **Streamlit** e a **Amazon Bedrock**. Ele foi criado como apoio ao **Projeto Final** do curso da **Escola da Nuvem - AWS re/Start**, voltado para a capacitação em **Inteligência Artificial e Python**.
-
-## 📚 Objetivo
-
-Oferecer um assistente virtual que possa responder dúvidas sobre:
-
-- Cursos gratuitos oferecidos
-- Detalhes sobre carga horária e nível
-- Regiões dos alunos
-- Empregabilidade após os cursos
-- Certificação e inscrições
-
-O chatbot responde utilizando uma combinação de **regras personalizadas** e chamadas à API da **Amazon Bedrock (Claude v2)**, quando necessário.
-
----
-
 ## 🔧 Tecnologias Utilizadas
 
 - [Python 3.x](https://www.python.org/)
@@ -54,7 +36,7 @@ Se ainda não tiver uma conta, acesse [aws.amazon.com](https://aws.amazon.com/) 
 
 1. Acesse o [Console IAM](https://console.aws.amazon.com/iam/home).
 2. Vá até **"Usuários" > "Adicionar usuário"**.
-3. Defina um nome (ex: `usuario-bedrock`) e selecione **Acesso programático**.
+3. Defina um nome (ex: `usuario-bedrock`).
 4. Na etapa de **permissões**, escolha a opção **"Anexar políticas diretamente"**.
 5. Clique em **"Criar política"** e cole o seguinte JSON:
 
@@ -178,6 +160,7 @@ Default output format: (pressione Enter para deixar em branco)
 ## Crie e ative um ambiente virtual
 ```
 python -m venv .venv
+
 source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
 
@@ -205,16 +188,11 @@ O objetivo deste repositório é compartilhar o conhecimento adquirido durante a
  Os projetos serão realizados com base em **metodologias ágeis**, organizando os alunos em **equipes (squads)**. Cada grupo terá um **tema específico de projeto** e realizará entregas por meio de **sprints**, promovendo o trabalho em equipe, comunicação efetiva e desenvolvimento iterativo e incremental. 
 , o curso oferece uma introdução ao uso da **AWS** para a construção de soluções baseadas em **Cloud Computing** e **IA**.
 
-AWS e Escola da Nuvem
-
-![image - 2025-05-16T110140 115](https://github.com/user-attachments/assets/4e3beceb-67fd-4d0b-8667-6a58f1e8cdfe)
-
-
 ---
 
 ## Contato
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via  [Heberton Geovane](https://www.linkedin.com/in/heberton-geovane/)
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via  [Rafael Santos](https://www.linkedin.com/in/rafasantosbzr/)
 
 
 Este repositório faz parte de um projeto **educacional em tecnologia**, promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.

@@ -14,9 +14,9 @@ st.set_page_config(page_title="Escola Tecnologia para Todos", page_icon="🎓")
 session = boto3.Session(profile_name="default")  # Verifique o nome do perfil AWS
 client = session.client("bedrock-runtime", region_name="us-east-1")
 
-# =========================
+# =================================
 # Carregar dados dos arquivos CSV
-# =========================
+# =================================
 try:
     alunos_df = pd.read_csv("alunos.csv")
     cursos_df = pd.read_csv("cursos.csv")
@@ -24,9 +24,9 @@ except Exception as e:
     st.error(f"Erro ao carregar os dados: {e}")
     st.stop()
 
-# =========================
+# =================================================
 # Função para gerar respostas com base nos dados
-# =========================
+# =================================================
 def gerar_resposta(user_input):
     user_input = user_input.lower()
 
@@ -80,9 +80,9 @@ def gerar_resposta(user_input):
     # Se não encontrar nada, retorna None para utilizar o modelo Bedrock
     return None
 
-# =========================
+# ===============================================
 # Função para chamada ao Claude v2 via Bedrock
-# =========================
+# ===============================================
 def call_bedrock_model(messages):
     filtered_messages = [
         {"role": msg["role"], "content": msg["content"]}

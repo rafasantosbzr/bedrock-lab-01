@@ -184,4 +184,4 @@ streamlit run app.py
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/rafasantosbzr/)
 
 
-Este repositório foi originalmente desenvolvido por [Heberton Geovane](https://www.linkedin.com/in/heberton-geovane/) e faz parte de um projeto **educacional em tecnologia** promovido pela **Escola da Nuvem** com apoio da **AWS**. Nosso objetivo é formar talentos preparados para os desafios do mercado digital, com base em práticas modernas de desenvolvimento, **metodologias ágeis**, e **computação em nuvem**.
+Este repositório foi originalmente desenvolvido por [Heberton Geovane](https://www.linkedin.com/in/heberton-geovane/).
